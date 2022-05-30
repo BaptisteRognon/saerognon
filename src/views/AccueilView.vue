@@ -1,9 +1,15 @@
 <template>
-  <main>
-    <h1 class="text-2xl">Bonjour</h1>
-  </main>
+  
 </template>
 
 <script>
 export default {};
+</script>
+
+<script>
+ import headerView from './components/headerView.vue';
+ import footerView from './components/footerView.vue';
+export default {
+  components: { headerView, footerView, },
+};
 </script>
