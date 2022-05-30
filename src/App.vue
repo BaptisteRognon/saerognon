@@ -11,11 +11,10 @@
       <RouterLink to="/mentionlegale" class="text-blue-600 underline">Mention Légake</RouterLink>
       <RouterLink to="/programme" class="text-blue-600 underline">Programme</RouterLink>
 
-      <headerView></headerView>
+    
     </nav>
   </header>
 
-  <footerView></footerView>
   <RouterView />
 </template>
 
