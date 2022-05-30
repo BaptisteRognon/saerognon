@@ -1,7 +1,7 @@
 <template>
   <headerView></headerView>
- <p><template>
-    <text class="text-center">
+  <div class="text-center text-color">
+ <p>
         DÉNOMINATION SOCIALE
 
 Association pour l’événement de musique classique.
@@ -51,8 +51,8 @@ Vivamus condimentum mi dolor, quis condimentum mauris placerat quis. Nullam vari
 — RÈGLES ÉDITORIALES ET LIENS AVEC D'AUTRES SITES
 
 Lys s'engage, en tant qu'éditeur en ligne, à veiller à la protection des mineurs, à ne pas porter atteinte aux droits, à la liberté et à la dignité de la personne, et à informer le lecteur de la nature éditoriale des contenus proposés. Le Site peut contenir des liens hypertextes donnant accès à d'autres sites web édités. Ce dernier ne pourra être tenu responsable directement ou indirectement dans le cas où lesdits sites tiers ne respectent pas les dispositions légales et réglementaires tant françaises qu'européennes en vigueur ou à venir, ainsi que les conséquences de ce non-respect.
- </text>
-</template></p>
+</p>
+  </div>
 
   <footerView></footerView>
 </template>
