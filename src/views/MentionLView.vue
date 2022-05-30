@@ -58,10 +58,10 @@ Lys s'engage, en tant qu'éditeur en ligne, à veiller à la protection des mine
 </template>
 
 <script>
-
- import headerView from '../components/headerView.vue'
- import footerView from '../components/footerView.vue'
+  import headerView from '../components/headerView.vue';
+  import footerView from '../components/footerView.vue';
+  import cardView from '../components/cardView.vue';
 export default {
-  components: { headerView, footerView, },
+  components: { headerView, footerView, cardView, cardView },
 };
 </script>

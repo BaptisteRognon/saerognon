@@ -3,20 +3,19 @@
  
  
 <div class="grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] m-5">
-    <Card />
-    <Card />
-    <Card />
-    
+    <cardView></cardView> 
+    <cardView></cardView> 
+    <cardView ></cardView>
 </div>
 
    <footerView></footerView>
 </template>
 
 <script>
-
- import headerView from '../components/headerView.vue'
- import footerView from '../components/footerView.vue'
+  import headerView from '../components/headerView.vue';
+  import footerView from '../components/footerView.vue';
+  import cardView from '../components/cardView.vue';
 export default {
-  components: { headerView, footerView, },
+  components: { headerView, footerView, cardView },
 };
 </script>
