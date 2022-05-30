@@ -1,5 +1,15 @@
 <template>
-  
+  <headerView></headerView>
+ 
+ 
+<div class="grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] m-5">
+    <Card />
+    <Card />
+    <Card />
+    
+</div>
+
+   <footerView></footerView>
 </template>
 
 <script>
