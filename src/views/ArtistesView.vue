@@ -11,7 +11,7 @@
     
     <div class="flex items-center">
       
-        <img src="src/assets/perso6.png" alt="house" class="mx-8 my-8 rounded-lg  object-cover" />
+        <img src="../assets/perso6.png" alt="house" class="mx-8 my-8 rounded-lg  object-cover" />
 
         <p class="font-raleway text-blanc">
           Né à Paris, Alexandre Tharaud découvre la scène grâce à sa mère (professeur de danse) et son père (patron d'un garage Citroën). Ce
@@ -25,7 +25,7 @@
 
     <div class="flex items-center">
       
-        <img src="src/assets/perso1.png" alt="personne" class=" mx-8 my-8 rounded-lg object-cover" />
+        <img src="../assets/perso1.png" alt="personne" class=" mx-8 my-8 rounded-lg object-cover" />
      
       <p class="font-raleway text-blanc">
         Bertrand Chamayou commence à étudier le piano à huit ans. Peu de temps après, il entre au conservatoire de sa ville natale, d'où il
@@ -39,7 +39,7 @@
 
     <div class="flex items-center">
       
-        <img src="src/assets/perso2.png" alt="house" class="mx-8 my-8 rounded-lg object-cover" />
+        <img src="../assets/perso2.png" alt="house" class="mx-8 my-8 rounded-lg object-cover" />
       
       <p class="font-raleway text-blanc">
         Durant l’événement Lys, des petits comme des grands musiciens feront leurs apparitions pour interpréter leur travail en action.
@@ -51,7 +51,7 @@
 
     <div class="flex items-center">
      
-        <img src="src/assets/perso3.png" alt="house" class="mx-8 my-8 rounded-xl object-cover" />
+        <img src="../assets/perso3.png" alt="house" class="mx-8 my-8 rounded-xl object-cover" />
      
       <p class="font-raleway text-blanc">
         Benjamin Bernheim naît à Paris le 9 juin 1985. Il est binational franco-suisse. Il est le fils adoptif du baryton Antoine Bernheim
@@ -63,7 +63,7 @@
 
     <div class="flex items-center">
       
-        <img src="src/assets/perso4.png" alt="house" class="mx-8 my-8 rounded-lg object-cover" />
+        <img src="../assets/perso4.png" alt="house" class="mx-8 my-8 rounded-lg object-cover" />
      
       <p class="font-raleway text-blanc">
         Elsa Dreisig est née en 1991. Elle est la fille d'Inge Dreisig, chanteuse d'opéra, et de Gilles Ramade, artiste lyrique, pianiste,
@@ -76,7 +76,7 @@
 
     <div class="flex items-center">
       
-        <img src="src/assets/perso5.png" alt="house" class="mx-8 my-8 rounded-lg object-cover m-5" />
+        <img src="../assets/perso5.png" alt="house" class="mx-8 my-8 rounded-lg object-cover m-5" />
   
      <p class="font-raleway text-blanc">
         Raphaëlle Moreau a grandi dans une fratrie de musiciens. Elle est la sœur d’Edgar Moreau, violoncelliste, de Jérémie, pianiste nommé
