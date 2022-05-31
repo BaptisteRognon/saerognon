@@ -1,24 +1,24 @@
 <template>
   <nav>
-      <div class="">
+      <div class="bg-transparent">
         <div class="max-w-7xl mx-auto">
             <div class="flex justify-between">
                 <!-- Menu -->
-                <div class="flex space-x-4">
+                <div class="flex space-x-4 justify-between">
                     <!-- Logo -->
-                    <div class="flex items-center py-5 px-2">
-                        <RouterLink to="/"><img src="../../img/logo.png"></RouterLink>
+                    <div class="flex items-center justify-between py-5 px-2">
+                        <RouterLink to="/"><img src="src\assets\lys.svg"></RouterLink>
                     </div>
                     <!-- Menu -->
                     <div class="hidden text-white ipad_pro:flex items-center space-x-1">
-                        <RouterLink to="/" class="text-blue-600 underline">Accueil</RouterLink>
-      <RouterLink to="/artistes" class="py-5 px-2 hover:text-Gris">Artistes</RouterLink>
-      <RouterLink to="/artiste" class="py-5 px-2 hover:text-Gris">Artiste</RouterLink>
-      <RouterLink to="/concert" class="py-5 px-2 hover:text-Gris">Concert</RouterLink>
-      <RouterLink to="/contact" class="py-5 px-2 hover:text-Gris">Contact</RouterLink>
-      <RouterLink to="/festival" class="py-5 px-2 hover:text-Gris">Festival</RouterLink>
-      <RouterLink to="/mentionlegale" class="py-5 px-2 hover:text-Gris">Mention Légale</RouterLink>
-      <RouterLink to="/programme" class="py-5 px-2 hover:text-Gris">Programme</RouterLink>
+            <RouterLink to="/" class="py-5 px-2 hover:font-bold">Accueil</RouterLink>
+            <RouterLink to="/artistes" class="py-5 px-2 hover:font-bold">Artistes</RouterLink>
+            <RouterLink to="/artiste" class="py-5 px-2 hover:font-bold">Artiste</RouterLink>
+            <RouterLink to="/concert" class="py-5 px-2 hover:font-bold">Concert</RouterLink>
+            <RouterLink to="/contact" class="py-5 px-2 hover:font-bold">Contact</RouterLink>
+            <RouterLink to="/festival" class="py-5 px-2 hover:font-bold">Festival</RouterLink>
+            <RouterLink to="/mentionlegale" class="py-5 px-2 hover:font-bold">Mention Légale</RouterLink>
+            <RouterLink to="/programme" class="py-5 px-2 hover:font-bold ">Programme</RouterLink>
                     
                     </div>
                 </div>
@@ -40,14 +40,14 @@
         </div>
       </div>
       <!-- Menu mobile -->
-      <div class="text-white bg-black ipad_pro:hidden" :class="{hidden: menuVisible}">
-        <RouterLink class="block py-2 px-4 hover:text-Gris bg-black " to="/">Accueil</RouterLink>
-        <RouterLink class="block py-2 px-4 hover:text-Gris bg-black " to="/programme">Programme</RouterLink>
-        <RouterLink class="block py-2 px-4 hover:text-Gris bg-black " to="/artistes">Groupe</RouterLink>
-        <RouterLink class="block py-2 px-4 hover:text-Gris bg-black " to="/artiste">Artistes</RouterLink>
-        <RouterLink class="block py-2 px-4 hover:text-Gris bg-black " to="/bar">Le Bar</RouterLink> 
-        <RouterLink class="block py-2 px-4 hover:text-Gris bg-black " to="/concert">Concerts</RouterLink>
-        <RouterLink class="block py-2 px-4 hover:text-Gris bg-black " to="/mentions">Mentions</RouterLink> 
+      <div class="text-white bg-transparent ipad_pro:hidden" :class="{hidden: menuVisible}">
+        <RouterLink class="block py-2 px-4  bg-transparent " to="/">Accueil</RouterLink>
+        <RouterLink class="block py-2 px-4 bg-transparent " to="/programme">Programme</RouterLink>
+        <RouterLink class="block py-2 px-4  bg-transparent " to="/artistes">Groupe</RouterLink>
+        <RouterLink class="block py-2 px-4  bg-transparent " to="/artiste">Artistes</RouterLink>
+        <RouterLink class="block py-2 px-4  bg-transparent " to="/bar">Le Bar</RouterLink> 
+        <RouterLink class="block py-2 px-4  bg-transparent " to="/concert">Concerts</RouterLink>
+        <RouterLink class="block py-2 px-4  bg-transparent " to="/mentions">Mentions</RouterLink> 
       </div>
   </nav>
 

@@ -1,14 +1,8 @@
 <template >
 <RouterView/>
-  <div class="bg-noir">
   <div class="bg-[url('/src/assets/fond_fontaine.png')] bg-no-repeat bg-cover h-screen">
-  <div class="flex justify-between   ">
-    <img class="p-4" src="src/assets/lys.svg" />
-    <img class="p-4" src="src/assets/menu.svg" />
-  </div>
+    <MenuView></MenuView>
 
-   
- 
   <div class="my-5">
     <h1 class="font-prata font-bold text-center text-blanc text-3xl m-8">LYS</h1>
 <h1 class="font-prata font-bold text-center text-blanc text-2xl m-8">
@@ -21,7 +15,19 @@
        <FlecheIcon/>
     </div>
 
-</div>
+
 
 </div>
 </template>
+
+<script>
+
+import MenuView from "./menuView.vue";
+
+export default{
+  components: {
+    MenuView
+}
+}
+</script>
+>

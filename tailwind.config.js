@@ -4,6 +4,12 @@ module.exports = {
   theme: {
     extend: {
 
+      screens : {
+      "ipad_mini": '744px',
+      "ipad_pro": '1024px',
+        "desktop": '1440px'
+      } , 
+
       backgroundImage:{
         'fond_fontaine' : "url('/src/assets/fond_fontaine.png')"
       },
@@ -51,11 +57,7 @@ module.exports = {
        "full": "9999px"
       },
 
-      "screen" : {
-        "ipad_mini": '744px',
-       "ipad_pro": '1024px',
-        "desktop": '1440px'
-      }
+     
       
      }
     }

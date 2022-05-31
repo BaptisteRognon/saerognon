@@ -1,4 +1,5 @@
 <template>
+<menuView></menuView>
   <headerView></headerView>
  
 
