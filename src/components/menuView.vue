@@ -13,8 +13,6 @@
                     <div class="hidden text-white ipad_pro:flex items-center space-x-1">
             <RouterLink to="/" class="py-5 px-2 hover:font-bold">Accueil</RouterLink>
             <RouterLink to="/artistes" class="py-5 px-2 hover:font-bold">Artistes</RouterLink>
-            <RouterLink to="/artiste" class="py-5 px-2 hover:font-bold">Artiste</RouterLink>
-            <RouterLink to="/concert" class="py-5 px-2 hover:font-bold">Concert</RouterLink>
             <RouterLink to="/contact" class="py-5 px-2 hover:font-bold">Contact</RouterLink>
             <RouterLink to="/festival" class="py-5 px-2 hover:font-bold">Festival</RouterLink>
             <RouterLink to="/mentionlegale" class="py-5 px-2 hover:font-bold">Mention Légale</RouterLink>
@@ -22,10 +20,7 @@
                     
                     </div>
                 </div>
-                <div class="hidden text-white ipad_pro:flex items-center space-x-1">
-                    <RouterLink class="py-5 px-2 hover:text-Gris" to="/bar">Le Bar</RouterLink> 
-                    <RouterLink class="py-5 px-2 hover:text-Gris" to="/concert">Concerts</RouterLink>
-                </div>
+               
 
                 <!-- Bouton menu -->
                 <div class="ipad_pro:hidden flex items-center">
@@ -41,13 +36,12 @@
       </div>
       <!-- Menu mobile -->
       <div class="text-white bg-transparent ipad_pro:hidden" :class="{hidden: menuVisible}">
-        <RouterLink class="block py-2 px-4  bg-transparent " to="/">Accueil</RouterLink>
-        <RouterLink class="block py-2 px-4 bg-transparent " to="/programme">Programme</RouterLink>
-        <RouterLink class="block py-2 px-4  bg-transparent " to="/artistes">Groupe</RouterLink>
-        <RouterLink class="block py-2 px-4  bg-transparent " to="/artiste">Artistes</RouterLink>
-        <RouterLink class="block py-2 px-4  bg-transparent " to="/bar">Le Bar</RouterLink> 
-        <RouterLink class="block py-2 px-4  bg-transparent " to="/concert">Concerts</RouterLink>
-        <RouterLink class="block py-2 px-4  bg-transparent " to="/mentions">Mentions</RouterLink> 
+      <RouterLink to="/" class="py-5 px-2 hover:font-bold">Accueil</RouterLink>
+            <RouterLink to="/artistes" class="block py-2 px-4  bg-transparent">Artistes</RouterLink>
+            <RouterLink to="/contact" class="block py-2 px-4  bg-transparent">Contact</RouterLink>
+            <RouterLink to="/festival" class="block py-2 px-4  bg-transparent">Festival</RouterLink>
+            <RouterLink to="/mentionlegale" class="block py-2 px-4  bg-transparent">Mention Légale</RouterLink>
+            <RouterLink to="/programme" class="block py-2 px-4  bg-transparent ">Programme</RouterLink>
       </div>
   </nav>
 
