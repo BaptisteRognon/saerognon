@@ -48,6 +48,12 @@ module.exports = {
        "8xl": "2.8271484375rem",
        "9xl": "5.0888671875rem",
        "full": "9999px"
+      },
+
+      "screen" : {
+        "ipad_mini": '744px',
+       "ipad_pro": '1024px',
+        "desktop": '1440px'
       }
       
      }
