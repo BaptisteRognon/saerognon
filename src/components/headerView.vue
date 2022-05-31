@@ -3,7 +3,7 @@
   <div class="bg-[url('/src/assets/fond_fontaine.png')] bg-no-repeat bg-cover h-screen">
     <MenuView></MenuView>
 
-  <div class="my-5">
+  <div class="my-40">
     <h1 class="font-prata font-bold text-center text-blanc text-3xl m-8">LYS</h1>
 <h1 class="font-prata font-bold text-center text-blanc text-2xl m-8">
 ÉVÉNEMENT DE L'ÉTÉ ROYALE</h1>

@@ -1,7 +1,16 @@
 <template>
   <headerView></headerView>
   <div class="text-center text-color">
- <p>
+
+<div class="flex flex-col m-5 items-center text-center">
+  <img src="src\assets\ligne.png" class="">
+  <p class="font-prata text-blanc text-xl:">- MENTION LÉGALE -</p>
+  <img src="src\assets\ligne.png">
+
+  </div>
+
+
+ <p class="font-raleway text-blanc">
         DÉNOMINATION SOCIALE
 
 Association pour l’événement de musique classique.

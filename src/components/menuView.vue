@@ -7,7 +7,7 @@
                 <div class="flex space-x-4 justify-between">
                     <!-- Logo -->
                     <div class="flex items-center justify-between py-5 px-2">
-                        <RouterLink to="/"><img src="src\assets\lys.svg"></RouterLink>
+                        <RouterLink to="/"><img src="../assets/lys.svg"></RouterLink>
                     </div>
                     <!-- Menu -->
                     <div class="hidden text-white ipad_pro:flex items-center space-x-1">

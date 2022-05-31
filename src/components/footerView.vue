@@ -1,6 +1,6 @@
 <template>
     <footer class="br-20">
-    <div class="bg-dnonf flex flex-wrap justify-evenly mt-10 mx-20">
+    <div class="bg-dnonf flex flex-wrap justify-evenly  ">
       <div>
         <div class="">
           <div class="mb-4 font-bold text-blanc">
