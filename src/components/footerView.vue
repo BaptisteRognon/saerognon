@@ -1,77 +1,45 @@
 <template>
-    <footer>
-    <div class="flex flex-wrap justify-evenly mt-10 mx-20">
+    <footer class="br-20">
+    <div class="bg-dnonf flex flex-wrap justify-evenly mt-10 mx-20">
       <div>
         <div class="">
-          <div class="mb-4 font-bold text-gray-900">
-            <p>SELL A HOME</p>
+          <div class="mb-4 font-bold text-blanc">
+            <p>ADRESSE</p>
           </div>
-          <div class="mb-10 text-gray-500">
-            <p>Request an offer</p>
-            <p>Pricing</p>
-            <p>Reviews</p>
-            <p>Stories</p>
-          </div>
-        </div>
-        <div class="">
-          <div class="mb-4 font-bold text-gray-900">
-            <p>TERMS & PRIVACY</p>
-          </div>
-          <div class="mb-10 text-gray-500">
-            <p>Trust & Safety</p>
-            <p>Terms of Service</p>
-            <p>Privacy Policy</p>
+          <div class="mb-10 text-blanc">
+            
+            <p>3 impasse de la grande gars</p>
+            <p>Tistalovalish 23 333</p>
           </div>
         </div>
         <div class="">
-          <div class="mb-4 font-bold text-gray-900">
-            <p>BUY A HOME</p>
+          <div class="mb-4 font-bold text-blanc">
+            <p>CONTACT</p>
           </div>
-          <div class="mb-10 text-gray-500">
-            <p>Buy</p>
-            <p>Finance</p>
+          <div class="mb-10 text-blanc">
+            <p>03.52.62.45.59.96</p>
+            <p>Lys@outlook.fr</p>
           </div>
         </div>
-      </div>
+        </div>
       <div>
         <div class="">
-          <div class="mb-4 font-bold text-gray-900">
-            <p>ABOUT</p>
-          </div>
-          <div class="mb-10 text-gray-500">
-            <p>Company</p>
-            <p>How it works</p>
-            <p>Contact</p>
-            <p>Investors</p>
-          </div>
-        </div>
-        <div class="">
-          <div class="mb-4 font-bold text-gray-900">
-            <p>BUY, RENT AND SELL</p>
-          </div>
-          <div class="mb-10 text-gray-500">
-            <p>Buy & sell properties</p>
-            <p>Rent home</p>
-            <p>Builder trade-up</p>
-          </div>
-        </div>
-        <div class="">
-          <div class="mb-4 font-bold text-gray-900">
-            <p>RESOURCES</p>
-          </div>
-          <div class="mb-10 text-gray-500">
-            <p>Blog</p>
-            <p>Guides</p>
-            <p>FAQ</p>
-            <p>Help Center</p>
+          <div class="mb-4 font-bold text-blanc">
+            <p>NOTRE ÉQUIPE</p>
+            </div>
+          <div class="mb-10 text-blanc">
+            
+            <p>Membres</p>
+            <p>Nos programmes</p>
+            <p>Événement</p>
           </div>
         </div>
       </div>
     </div>
 
     <div class="h-1 bg-white w-full"></div>
-    <div class="text-gray-500">
-      <p class="text-center">©2021 Estatery. All rights reserved</p>
+    <div class="text-blanc">
+      <p class="text-center">© lys.fr All rights reserved - C.G.U</p>
     </div>
 
     <div class="flex flex-initial justify-evenly mt-2">

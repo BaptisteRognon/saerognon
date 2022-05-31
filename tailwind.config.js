@@ -18,7 +18,8 @@ module.exports = {
        "jaune01": "#ffe380",
        "jaune02": "#ffeba5",
        "jaune03": "#fff3c8",
-       "jaune04": "#fffae9"
+       "jaune04": "#fffae9",
+       "dnonf": "#151515"
       },
       "fontSize": {
        "sm": "0.75rem",

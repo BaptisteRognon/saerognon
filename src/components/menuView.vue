@@ -1,6 +1,5 @@
 <template>
   <nav>
-      <!-- Menu bureau -->
       <div class="">
         <div class="max-w-7xl mx-auto">
             <div class="flex justify-between">
@@ -12,11 +11,15 @@
                     </div>
                     <!-- Menu -->
                     <div class="hidden text-white ipad_pro:flex items-center space-x-1">
-                        <RouterLink class="py-5 px-2 hover:text-Gris" to="/">Accueil</RouterLink>
-                        <RouterLink class="py-5 px-2 hover:text-Gris" to="/programme">Programme</RouterLink>
-                        <RouterLink class="py-5 px-2 hover:text-Gris" to="/artistes">Groupe</RouterLink>
-                        <RouterLink class="py-5 px-2 hover:text-Gris" to="/artiste">Artistes</RouterLink>
-                        <RouterLink class="py-5 px-2 hover:text-Gris" to="/mentions">Mentions</RouterLink>  
+                        <RouterLink to="/" class="text-blue-600 underline">Accueil</RouterLink>
+      <RouterLink to="/artistes" class="py-5 px-2 hover:text-Gris">Artistes</RouterLink>
+      <RouterLink to="/artiste" class="py-5 px-2 hover:text-Gris">Artiste</RouterLink>
+      <RouterLink to="/concert" class="py-5 px-2 hover:text-Gris">Concert</RouterLink>
+      <RouterLink to="/contact" class="py-5 px-2 hover:text-Gris">Contact</RouterLink>
+      <RouterLink to="/festival" class="py-5 px-2 hover:text-Gris">Festival</RouterLink>
+      <RouterLink to="/mentionlegale" class="py-5 px-2 hover:text-Gris">Mention Légale</RouterLink>
+      <RouterLink to="/programme" class="py-5 px-2 hover:text-Gris">Programme</RouterLink>
+                    
                     </div>
                 </div>
                 <div class="hidden text-white ipad_pro:flex items-center space-x-1">
