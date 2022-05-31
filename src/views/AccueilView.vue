@@ -1,5 +1,12 @@
 <template>
   <headerView></headerView>
+
+  <div class="flex flex-col m-5 items-center text-center">
+  <img src="src\assets\ligne.png" class="">
+  <p class="font-prata text-blanc text-xl:">- UN MOMENT "CLASSIQUE" -</p>
+  <img src="src\assets\ligne.png">
+  </div>
+  
   <div class="grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] m-5">
     <cardView></cardView> 
     <cardView></cardView> 
