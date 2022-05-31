@@ -1,7 +1,7 @@
 <template>
   <headerView></headerView>
 
- <div class="flex flex-col m-5 items-center text-center">
+<div class="flex flex-col m-5 items-center text-center">
   <img src="../assets/ligne.png" class="">
   <p class="font-prata text-blanc text-xl:">- UN MOMENT "CLASSIQUE" -</p>
   <img src="../assets/ligne.png">
