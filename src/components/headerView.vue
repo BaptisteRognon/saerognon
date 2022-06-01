@@ -8,12 +8,15 @@
 <h1 class="font-prata font-bold text-center text-blanc text-2xl m-8">
 ÉVÉNEMENT DE L'ÉTÉ ROYALE</h1>
   </div>
-  <div class=" flex justify-center">
-       <FlecheIcon/>
+
+  <div class="flex flex-initial justify-evenly mt-2">
+      <div class="flex">
+      <div class="m-5">
+          <img src="../assets/fleche.svg"  width="50" height="50">
+      </div>
     </div>
-      <div class=" flex justify-center">
-       <FlecheIcon/>
     </div>
+
 
 
 
