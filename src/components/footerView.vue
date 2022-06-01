@@ -3,6 +3,7 @@
       <img class=" flex flex-col m-20 items-center text-center" src="../assets/ligne11.png">
     <div class="bg-dnonf flex flex-wrap justify-evenly  ">
       <div>
+        
         <div class="">
           <div class="mb-4 font-bold text-blanc">
             <p>ADRESSE</p>
