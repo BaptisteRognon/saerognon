@@ -17,8 +17,8 @@
             <RouterLink to="/festival" class="py-5 px-2 hover:font-bold">Festival</RouterLink>
             <RouterLink to="/mentionlegale" class="py-5 px-2 hover:font-bold">Mention Légale</RouterLink>
             <RouterLink to="/programme" class="py-5 px-2 hover:font-bold ">Programme</RouterLink>
-            <router-link to="/guidedestyle" class="py-5 px-2 hover:font-bold ">Guide de style</router-link>
-                    
+            <router-link to="/artiste" class="py-5 px-2 hover:font-bold ">Profile Artiste</router-link>
+ 
                     </div>
                 </div>
                
@@ -43,6 +43,8 @@
             <RouterLink to="/festival" class="block py-2 px-4  bg-transparent">Festival</RouterLink>
             <RouterLink to="/mentionlegale" class="block py-2 px-4  bg-transparent">Mention Légale</RouterLink>
             <RouterLink to="/programme" class="block py-2 px-4  bg-transparent ">Programme</RouterLink>
+            <RouterLink to="/artiste" class="block py-2 px-4  bg-transparent ">Profile artiste</RouterLink>
+
       </div>
   </nav>
 

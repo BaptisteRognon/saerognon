@@ -91,6 +91,12 @@
   <footerView></footerView>
 </template>
 
+
+
+
+
+
+
 <script>
 import headerView from "../components/headerView.vue";
 import footerView from "../components/footerView.vue";
