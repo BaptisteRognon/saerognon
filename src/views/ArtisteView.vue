@@ -2,16 +2,21 @@
 <HeaderView></HeaderView>
     <div class="container">
         <div class="card-header bg-blanc rounded">
-            <p class="text-blanc">Liste des catégories</p>
+            <div name="guide de style" class="bg-blanc m-5 p-3 rounded">
+            <p class="font-raleway text-dnonf">Liste des artistes</p></div>
         </div>    
         <hr/>
 
 
         <form>
-          <h6>Nouvelle catégorie</h6>
+          <div name="guide de style" class="bg-blanc m-5 p-3 rounded">
+            <p class="font-raleway text-dnonf">NOUVELLE CATEGORIE</p></div>
+
+
           <div class="input-group">
             <div class="input-group-prepend">
-              <span class="text-blanc input-group-text">Libellé</span>
+
+              <span class="text-blanc font-raleway m-5 p-5 input-group-text">Libellé</span>
             </div>
             <input type="text" class="form-control" v-model="nom" required />
             <button class="btn btn-light" type="button" @click="createArtiste()" title="Création">
@@ -25,7 +30,7 @@
               <thead>
                     <tr>                      
                         <th scope="col">
-                          <div class="float-left">Liste des catégories actuelles</div>                          
+                          <div class="flex text-blanc font-raleway m-5 p-5 input-group-text float-left">Liste des catégories actuelles</div>                          
                           <span class="float-right">
                             <div class="input-group" >
                                 <div class="input-group-prepend">
