@@ -22,6 +22,9 @@ Versaille à son époque, avait une place exprès pour les représentations musi
 
 
 
+
+
+
   <footerView></footerView>
 </template>
 
