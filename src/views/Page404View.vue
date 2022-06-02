@@ -1,5 +1,6 @@
 <template>
   <headerView></headerView>
+  <img src="../assets/lys.svg" class="flex flex-col m-5 items-center text-center">
   <p>Page 404</p>
   <p>Nous n'avons pas suivie le rythme...</p>
 
