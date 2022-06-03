@@ -15,10 +15,7 @@
 
         <p class="font-raleway text-blanc">
           Né à Paris, Alexandre Tharaud découvre la scène grâce à sa mère (professeur de danse) et son père (patron d'un garage Citroën). Ce
-          dernier lui fait faire de la figuration dans les théâtres du nord de la France, où la famille passe de nombreux week-ends. À
-          l'initiative de ses parents, il entame l'étude du piano à l'âge de cinq ans et rencontre au conservatoire du 14e arrondissement
-          celle qui devient son professeur, Carmen Taccon-Devenat, une élève de Marguerite Long. Il déclare d'elle qu'elle lui a « donné des
-          leçons de vie » et lui a appris à « respirer physiquement en faisant parler le piano» [...]
+          dernier lui fait faire de la figuration dans les théâtres du nord de la France, où la famille passe de nombreux week-ends.[...]
         </p>
       
     </div>

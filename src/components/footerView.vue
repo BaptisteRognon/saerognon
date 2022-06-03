@@ -36,19 +36,7 @@
           </div>
         </div>
       </div>
-      <div>
-        <div class="">
-          <div class="mb-4 font-bold text-blanc">
-            <p>NOS COLLABORATEURS</p>
-            </div>
-          <div class="mb-10 text-blanc">
-            
-            <a href="http://mmimontbeliard.com/"><p>MMI</p></a>
-            <p>Nos programmes</p>
-            <p>Événement</p>
-          </div>
-        </div>
-      </div>
+      
     </div>
 
     <div class="h-1 bg-white w-full"></div>
