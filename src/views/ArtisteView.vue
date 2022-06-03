@@ -2,7 +2,7 @@
 <HeaderView></HeaderView>
     <div class="container">
         <div class="card-header bg-blanc rounded">
-            <div name="guide de style" class="bg-blanc m-5 p-3 rounded">
+            <div name="guide de style" class="bg-blanc m-5 p-3 rounded ">
             <p class="font-raleway text-dnonf">LISTE DES ARTISTES</p></div>
         </div>    
         <hr/>
@@ -43,7 +43,7 @@
                                 </div>
                                 <input type="text" class="form-control" v-model="filter" />
                                 <button class="btn btn-light" type="button" title="Filtrage">
-                                <p class="text-white"> Filtrer</p>
+                                <img src="../assets/loupe.png" class="mx-1">
                                 </button>
                               </div>
                           </span>
@@ -65,7 +65,7 @@
                               </button>
                               <button class="btn btn-light" type="submit" 
                               @click.prevent="deleteArtiste(artiste)" title="Suppression">
-                               <p class="text-white"> Supprimer</p>
+                               <img src="../assets/x.png">
                               </button>
                             </div>
                           </form>
