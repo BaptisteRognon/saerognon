@@ -3,25 +3,30 @@
     <div class="container">
         <div class="card-header bg-blanc rounded">
             <div name="guide de style" class="bg-blanc m-5 p-3 rounded">
-            <p class="font-raleway text-dnonf">Liste des artistes</p></div>
+            <p class="font-raleway text-dnonf">LISTE DES ARTISTES</p></div>
         </div>    
         <hr/>
 
 
         <form>
           <div name="guide de style" class="bg-blanc m-5 p-3 rounded">
-            <p class="font-raleway text-dnonf">NOUVELLE CATEGORIE</p></div>
+            <p class="font-raleway text-dnonf">PARTICIPANTS</p></div>
 
 
           <div class="input-group">
             <div class="input-group-prepend">
 
-              <span class="text-blanc font-raleway m-5 p-5 input-group-text">Libellé</span>
+              <span class="text-blanc font-raleway m-5 p-5 input-group-text">Ajouter</span>
             </div>
             <input type="text" class="form-control" v-model="nom" required />
+
+          
+            <div name="guide de style" class="border border-blanc  m-5 p-3 rounded">
             <button class="btn btn-light" type="button" @click="createArtiste()" title="Création">
-              <p class="text-white"> Enregistrer</p>
+              <p class="text-blanc"> Enregistrer</p>
             </button>
+        </div> 
+            
           </div>
         </form>
 
@@ -30,11 +35,11 @@
               <thead>
                     <tr>                      
                         <th scope="col">
-                          <div class="flex text-blanc font-raleway m-5 p-5 input-group-text float-left">Liste des catégories actuelles</div>                          
+                          <div class="flex text-blanc font-raleway m-5 p-5 input-group-text float-left">Liste des candidats</div>                          
                           <span class="float-right">
                             <div class="input-group" >
                                 <div class="input-group-prepend">
-                                  <span class="input-group-text" >Filtrage</span>
+                                  <span class=" text-blanc" >Filtrage</span>
                                 </div>
                                 <input type="text" class="form-control" v-model="filter" />
                                 <button class="btn btn-light" type="button" title="Filtrage">
@@ -49,9 +54,9 @@
                     <tr v-for='artiste in filterByNom' :key='artiste.id'>
                         <td>
                           <form>
-                            <div class="input-group">
-                              <div class="input-group-prepend">
-                                <span class="input-group-text">Libellé</span>
+                            <div class="input-group  mx-20">
+                              <div class="input-group-prepend rounded m-2 p-1">
+                               
                               </div>
                               <input type="text" class="form-control" v-model="artiste.nom" required />
                               <button class="btn btn-light" type="submit" 

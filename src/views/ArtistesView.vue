@@ -3,7 +3,7 @@
   
   <div class="flex flex-col m-5 items-center text-center">
   <img src="../assets/ligne.png" class="">
-  <p class="font-prata text-blanc text-xl:">- UN MOMENT "CLASSIQUE" -</p>
+  <p class="font-prata text-blanc text-xl:">- QUI SONT-ILS ? -</p>
   <img src="../assets/ligne.png">
   </div>
 
