@@ -27,10 +27,7 @@
       <p class="font-raleway text-blanc">
         Bertrand Chamayou commence à étudier le piano à huit ans. Peu de temps après, il entre au conservatoire de sa ville natale, d'où il
         sort à l'âge de quinze ans pour rejoindre la classe de Jean-François Heisser au Conservatoire national supérieur de musique de
-        Paris. Il donne alors ses premiers concerts, suit les conseils d'artistes tels que Murray Perahia, Leon Fleisher, Dmitri Bachkirov
-        ou encore Aldo Ciccolini ; il remporte un deuxième prix au Concours international Krainev en Ukraine, un premier prix de piano au
-        Conservatoire, et intègre le cycle de perfectionnement de cet établissement tout en travaillant auprès de Maria Curcio à Londres
-        [...]
+        Paris [...]
       </p>
     </div>
 
@@ -40,9 +37,7 @@
       
       <p class="font-raleway text-blanc">
         Durant l’événement Lys, des petits comme des grands musiciens feront leurs apparitions pour interpréter leur travail en action.
-        Durant l’événement Lys, des petits comme des grands musiciens feront leurs apparitions pour interpréter leur travail en action.
-        Durant l’événement Lys, des petits comme des grands musiciens feront leurs apparitions pour interpréter leur travail en action.
-        Durant l’événement Lys, des petits comme des grands musiciens feront leurs apparitions pour interpréter leur travail en action.
+        
       </p>
     </div>
 
@@ -52,9 +47,7 @@
      
       <p class="font-raleway text-blanc">
         Benjamin Bernheim naît à Paris le 9 juin 1985. Il est binational franco-suisse. Il est le fils adoptif du baryton Antoine Bernheim
-        et sans relation avec son père biologique depuis sa prime enfance. Sa mère, fille de la mezzo-soprano Nicole Buloze, est professeur
-        de chant. Ses parents divorcent lorsqu'il est encore enfant. Il a une demi-sœur et un demi-frère cadets. Il est un des ambassadeurs
-        de la marque Rolex depuis 2017. Il est marié et père d'une fille. Il vit à Zurich [...]
+        et sans relation avec son père biologique depuis sa prime enfance. [...]
       </p>
     </div>
 
@@ -65,9 +58,7 @@
       <p class="font-raleway text-blanc">
         Elsa Dreisig est née en 1991. Elle est la fille d'Inge Dreisig, chanteuse d'opéra, et de Gilles Ramade, artiste lyrique, pianiste,
         auteur, compositeur et metteur en scène. Elle fait dix ans de maîtrise, d'abord dans la maîtrise de l'Opéra royal de Wallonie, puis
-        dans la maîtrise de l'opéra de Lyon. À l'âge de 17 ans, elle décide d'arrêter la maîtrise et commence à travailler le chant au
-        Conservatoire du 12e arrondissement de Paris puis au Conservatoire national supérieur de musique de Paris dans la classe de Valérie
-        Guillorit, puis, pendant un an, à la Hochschule für Musik de Leipzig dans la classe de Regina Werner [...]
+        dans la maîtrise de l'opéra de Lyon.  [...]
       </p>
     </div>
 
@@ -78,9 +69,7 @@
      <p class="font-raleway text-blanc">
         Raphaëlle Moreau a grandi dans une fratrie de musiciens. Elle est la sœur d’Edgar Moreau, violoncelliste, de Jérémie, pianiste nommé
         aux Victoires de la musique classique 2022, et de David, violoniste. Elle commence le violon dès l’âge de 4 ans avec la méthode
-        Suzuki. Elle se forme auprès d'Igor Volochine au Conservatoire à rayonnement régional de Paris. Elle intègre à 14 ans le
-        Conservatoire national supérieur de musique et de danse de Paris dans la classe de Roland Daugareil et suit en plus l’enseignement
-        de Pavel Vernikov à la Scuola di Musica di Fiesole en Italie puis à la Haute École de musique de Lausanne [...]
+        Suzuki.  [...]
       </p>
     </div>
   </div>
